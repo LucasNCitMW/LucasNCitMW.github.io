@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(65, 61, 61);
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    text-align: center;
+    color: rgb(117, 23, 23);
+}
+.about {
+    text-align: center;
+    color: aquamarine;
+}
+.skills {
+    text-align: center;
+    color: blueviolet;
+}
+.projects {
+    text-align: center;
+    color: chocolate;
+}
+.contact {
+    text-align: center;
+    color: darkgoldenrod;
+}
